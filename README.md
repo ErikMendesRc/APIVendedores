@@ -1,4 +1,4 @@
-# Erik
+# API Vendedores
 
 Teste Prático para Java Pleno
 
@@ -32,11 +32,3 @@ Este é um projeto de teste prático para uma posição de desenvolvedor Java Pl
 
 ```bash
 ./mvnw spring-boot:run
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorias.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
